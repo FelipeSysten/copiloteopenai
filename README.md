@@ -23,23 +23,13 @@ Image analysis - Extract text from images
 
 1 - imagem
 
-![lab 5 - 6](https://github.com/lsantos1820/-Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/assets/75084857/c4499fdc-c604-4315-afc9-770ef6850ca0)
+![lab 5 - 8](https://github.com/lsantos1820/-Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/assets/75084857/6a82b2d0-7b0c-4537-9e4c-826a11c6ce71)
+
 
 2 - imagem
 
-![lab5 - 7](https://github.com/lsantos1820/-Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/assets/75084857/2ec21d23-4673-4118-9ca0-0fc6e94d1061)
-
-3 - imagem
-
-![lab 5 - 8](https://github.com/lsantos1820/-Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/assets/75084857/6a82b2d0-7b0c-4537-9e4c-826a11c6ce71)
-
-4 - imagem
-
 ![lab 5 - 10](https://github.com/lsantos1820/-Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/assets/75084857/b0606a6e-0618-4113-8c16-5431916e7f6d)
 
-5 - imagem
-
-![lab 5 - 9](https://github.com/lsantos1820/-Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/assets/75084857/b78758b7-98ae-43bc-9653-24a23c931f74)
 
 
 Clean up - Delete resource group 
